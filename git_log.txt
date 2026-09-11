@@ -1,0 +1,45 @@
+commit 09df4bd0ce3f52498994335667052dc424fbd29e
+Merge: 83d66c3 8443b53
+Author: Jesusgom28 <jesusgomezm9728@gmail.com>
+Date:   Thu Sep 10 21:41:24 2026 -0700
+
+    Resolve merge conflict
+
+commit 8443b5379ef6378b17069cf9972f1ba47bc300c6
+Author: Jesusgom28 <jesusgomezm9728@gmail.com>
+Date:   Thu Sep 10 21:39:04 2026 -0700
+
+    added favorite game
+
+commit 83d66c321501e82ac87e89c12480fb3ec3f95ad8
+Author: Jesusgom28 <jesusgomezm9728@gmail.com>
+Date:   Thu Sep 10 21:37:05 2026 -0700
+
+    added favorite food
+
+commit 8da21a5ce283353c25d8269f4619ee25bcab97ad
+Author: Jesusgom28 <jesusgomezm9728@gmail.com>
+Date:   Thu Sep 10 21:32:27 2026 -0700
+
+    Add README
+
+commit f9d8c3dfd393b346f3da707aa015e51b127b6462
+Merge: 1d2bfc0 96c512d
+Author: Jesus Gomez <46300878+Jesusgom28@users.noreply.github.com>
+Date:   Thu Sep 10 21:30:41 2026 -0700
+
+    Merge pull request #1 from Jesusgom28/info-fill
+    
+    Fill in website information
+
+commit 96c512dd08426b1aa1ca4da8b5d1b8ca798b3d92
+Author: Jesusgom28 <jesusgomezm9728@gmail.com>
+Date:   Thu Sep 10 21:11:31 2026 -0700
+
+    Fill in website information
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
